@@ -1,4 +1,3 @@
-// screens/StockManagementScreen.js
 import React, { useState, useEffect } from 'react';
 import { View, Text, StyleSheet, FlatList, TextInput, TouchableOpacity } from 'react-native';
 import firestore from '@react-native-firebase/firestore';
