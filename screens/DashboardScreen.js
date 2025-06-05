@@ -1,4 +1,3 @@
-// screens/DashboardScreen.js
 import React, { useContext } from 'react';
 import { View, Text, StyleSheet, TouchableOpacity, ScrollView } from 'react-native';
 import { AuthContext } from '../context/AuthContext';
