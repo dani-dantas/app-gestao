@@ -1,4 +1,3 @@
-// screens/ReportsScreen.js
 import React, { useState, useEffect } from 'react';
 import { View, Text, StyleSheet, ScrollView, TouchableOpacity } from 'react-native';
 import { VictoryBar, VictoryChart, VictoryTheme, VictoryPie } from 'victory-native';
